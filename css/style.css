@@ -195,7 +195,7 @@ p {
 
 /*===== Preloader Style =====*/
 
-.preloader {
+/*.preloader {
 	position: fixed;
 	top: 0;
 	left: 0;
@@ -206,7 +206,7 @@ p {
 }
 .preloader .color-1{
     background-color: #ffc600 !important;
-}
+}*/
 .rubix-cube {
 	border: 1px solid #FFF;
 	width: 48px;
